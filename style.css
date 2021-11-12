@@ -1,0 +1,35 @@
+body{
+    background-image: url('https://wallpaperaccess.com/full/86289.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    color: black;
+    text-align: center;
+    font-size: larger;
+    background-color: burlywood;
+    width: 30%;
+    margin: auto;
+    padding-bottom: 2px;
+    background: linear-gradient(to right , lightblue, pink);
+    text-shadow: 4px 4px 10px black;
+}
+
+.music-box{
+    width: 40%;
+    height: 150px;
+    border-color: black;
+    background-color: chartreuse;
+    margin: auto;
+    margin-top: 5%;
+    background-image: url('https://cdn1.vectorstock.com/i/1000x1000/50/85/abstract-music-background-with-notes-vector-6375085.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+audio{
+    justify-content: center;
+    align-content: center;
+    margin-top: 10.3%;
+    margin-left: 20%;
+}
